@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # model-mix
 
 Two-direction model tiering for agent workflows: escalate hard decisions up to one expensive advisor, and fan read-heavy work down to parallel cheap workers.
